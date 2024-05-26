@@ -1,4 +1,5 @@
-[![Header](https://github.com/hereaim/SQL/blob/main/asset/sql.png)]()
+<p align="center"><img src="https://github.com/hereaim/SQL/blob/main/asset/sql.jpg"></p>
+
 ## This repository stores various public sql-query created during the learning process
 
 ### SQL Query
