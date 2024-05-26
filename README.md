@@ -1,4 +1,4 @@
-[![Header](https://github.com/gremoriru/SQL/blob/main/asset/sql.png)]()
+[![Header](https://github.com/hereaim/SQL/blob/main/asset/sql.png)]()
 ## This repository stores various public sql-query created during the learning process
 
 ### SQL Query
